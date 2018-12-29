@@ -1,0 +1,21 @@
+Functions to remember
+np.ones
+np.zeros
+
+np.argmax(arr) -> index containing max values
+np.argmin(arr) -> index containing min val
+np.argsort(arr) -> array of indices as per sorting
+
+use dtype to specify data type of elements in matrix
+
+np.arange(6).reshape(3,2) 
+-> an array of 6 elements from 0-5 -> 2d array of 3X2 
+reshape can be used to form 3d array as well
+
+and reshape function on arange
+
+Follow Structured array tutorial it is good , new insights 
+
+Check miscaleneous tutorial of Numpy really some good techniques
+
+  
